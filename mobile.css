@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+main > section > h1 {
+    
+    text-align: center;
+    
+}
+
+main > section > p {
+    text-align: center;
+}
