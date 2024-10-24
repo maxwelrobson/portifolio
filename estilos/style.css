@@ -124,6 +124,13 @@ body {
     font-weight: 400px;
 }
 
+.linkprojetos {
+    text-decoration: none;
+    color: #0B60B0;
+    font-family: var(--fonte-secundaria);
+    font-size: 1.5rem;
+}
+
 @media (max-width: 1265px) {
     .cabecalho {
         padding: 10%;
